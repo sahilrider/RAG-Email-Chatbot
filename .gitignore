@@ -1,2 +1,8 @@
 .env
 .venv-rag
+.tox
+
+*.json
+
+logs/
+__pycache__
